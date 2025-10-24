@@ -50,6 +50,5 @@ public class App {
         System.out.println("\nOrdenado por Nombre de Personas:");
         sortInsertion.sortPersonasByName(personas);
         sortInsertion.printArrayPersonas(personas);
-
     }
 }

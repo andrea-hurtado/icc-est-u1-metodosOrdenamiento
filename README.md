@@ -23,13 +23,17 @@ Salida de Java
 Método Sort Insertion en Java
 
 1. Arreglo de números enteros
+
 ![alt text](assets/int.png)
 
 2. Arreglo de cadenas (nombres)
+
 ![alt text](assets/cad.png)
 
 3. Arreglo de personas ordenado por nombre
+
 ![alt text](assets/pN.png)
 
 4. Arreglo de personas ordenado por edad
+
 ![alt text](assets/pA.png)

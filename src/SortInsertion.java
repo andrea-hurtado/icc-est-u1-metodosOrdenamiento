@@ -102,6 +102,7 @@ public class SortInsertion {
         for (int i = 0; i < personas.length; i++) {
             int j = i - 1;
             Persona aux = personas[i];
+            // se usa compareTo para comparar texto
             while (j >= 0 && aux.getName().compareTo(personas[j].getName()) < 0 ) { 
                 personas[j + 1] = personas[j];
                 j--;                
